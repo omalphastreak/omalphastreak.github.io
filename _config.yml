@@ -17,7 +17,7 @@ collections:
 title:            Omkar Masurkar
 tagline:          ''
 description:      'Hello World!'
-url:              https://omkarm.github.io/
+url:              https://omalphastreak.github.io/
 baseurl:          /
 author:
   name:           'Omkar Masurkar'
@@ -33,4 +33,4 @@ tools:
 version:          1.0.0
 
 github:
-  repo:           https://github.com/omalphastreak/omkar
+  repo:           https://github.com/omalphastreak/omalphastreak.github.io
